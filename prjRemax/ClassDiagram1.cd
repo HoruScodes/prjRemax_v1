@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjRemax.Business.clsAdmin">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgACAAAAAACAAAABQAAAACAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Business\clsAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.Business.clsAgent">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgECAAAAAACAAAABQAAAASAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Business\clsAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.Business.clsClient">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAgACABAAAACAEAgBRAQAACAAACAgAAIAAAAAI=</HashCode>
+      <FileName>Business\clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.Business.clsHouse">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAAAQAEADIIMEECAEAAAAAkAQAAABAQACAYAAA=</HashCode>
+      <FileName>Business\clsHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.Business.clsSales">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQAAAAAQIAAAAAABCAAQAAACAAABEAIAAAAAQAA=</HashCode>
+      <FileName>Business\clsSales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.DataLayer.clsAdminData">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAgAAAAAABAAAAAAAAAgAAABAAECAAA=</HashCode>
+      <FileName>DataLayer\clsAdminData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.DataLayer.clsAgentData">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAExAAAAAAAAAEAAAAEAAAAAAAgAAAAAAAAAAAEAAAI=</HashCode>
+      <FileName>DataLayer\clsAgentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.DataLayer.clsClientData">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAAAAAAAACAAQAAAAAAQAAAAAAAACABMAAAA=</HashCode>
+      <FileName>DataLayer\clsClientData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.DataLayer.clsHouseData">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAABCAAEAAEQ=</HashCode>
+      <FileName>DataLayer\clsHouseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.DataLayer.clsSalesData">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>DataLayer\clsSalesData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.DataLayer.validateData">
+    <Position X="9.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAEAAAAKAAAAAAAABAAAAAIAAAA=</HashCode>
+      <FileName>DataLayer\validateData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
